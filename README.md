@@ -11,7 +11,7 @@
     </a>
   </div>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=CassianoSantosTechr&color=a277ff&style=flat-square" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=CassianoSantosTech&color=a277ff&style=flat-square" alt=""/>
   <br/>
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
