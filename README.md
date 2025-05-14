@@ -51,4 +51,5 @@
   <img src="https://img.shields.io/badge/PostgreSQL-flat?logo=PostgreSQL&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
   <img src="https://img.shields.io/badge/MongoDB-flat?logo=MongoDB&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
   <img src="https://img.shields.io/badge/Kotlin-flat?logo=Kotlin&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Java-flat?logo=java&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
 </div>
