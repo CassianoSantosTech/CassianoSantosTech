@@ -31,11 +31,6 @@
   }
 }
 ```
-<p align="center">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/CassianoSantosTech/CassianoSantosTech/output/pacman-contribution-graph-dark.svg" />
-</p>
-
-> 💡 Ative o modo escuro no GitHub para visualizar o gráfico de contribuições com o Pac-Man completo!
 
 ### 📈 Stats
 <p align='center'>
