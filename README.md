@@ -40,13 +40,13 @@
 
 ###
 
-### 📈 Stats
+<!-- ### 📈 Stats
 <p align='center'>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=CassianoSantosTech&count_private=true&hide=contribs&show_icons=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoSantosTech&count_private=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false&layout=compact" />
   </div>
-</p>
+</p> -->
 
 ### 🚀 Skills and Tools
 <div style="display: inline_block">
